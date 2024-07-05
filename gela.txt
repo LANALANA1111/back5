@@ -1,0 +1,1 @@
+write a random text in file then read this data and count how many words are there
